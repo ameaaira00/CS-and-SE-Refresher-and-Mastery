@@ -4,6 +4,33 @@ This repository is a collection of my notes and practice coding as I continuousl
 
 I am a visual learner, so to study, I will combine taking notes and creating diagrams on GoodNotes and Google Docs, highlighting materials, and engaging in actual coding to retain knowledge better.
 
+## 💻 Repository Structure
+
+The repository is organized as follows:
+
+```
+/CS and SE Refresher & Mastery
+├── 1.0 Data Structure and Algorithms
+│   ├── Algorithms.ipynb
+│   ├── DataStructures.ipynb
+│   ├── Search Algorithm
+│   │   └── BinarySearch.ipynb
+│   └── Sorting Algorithm
+│       └── SelectionSort.ipynb
+├── TO FILL...
+└── README.md
+```
+
+Each folder contains notes, code, and projects related to the corresponding topics. I will be using a mix of Jupyter notebooks (.ipynb) for note-taking and coding practice, along with standalone files for project implementations.
+
+## 🎯 Goals
+
+The aim of this repository is to:
+- Maintain a strong foundation in core computer science concepts.
+- Continuously improve as a Software Engineer.
+- Gain practical experience in cloud computing, DevOps, and emerging technologies.
+
+
 ## 📅 Contents Overview
 
 ### 1. Foundation Recap (🔄 In Progress)
@@ -55,35 +82,8 @@ This section will explore cutting-edge technologies such as:
 ### 4. Continuous Learning
 This section includes resources for staying up to date. [📝 TO DO]
 
-## 💻 Repository Structure
-
-The repository is organized as follows:
-
-```
-/CS and SE Refresher & Mastery
-├── 1.0 Data Structure and Algorithms
-│   ├── Algorithms.ipynb
-│   ├── DataStructures.ipynb
-│   ├── Search Algorithm
-│   │   └── BinarySearch.ipynb
-│   └── Sorting Algorithm
-│       └── SelectionSort.ipynb
-├── TO FILL...
-└── README.md
-
-```
-
-Each folder contains notes, code, and projects related to the corresponding topics. I will be using a mix of Jupyter notebooks (.ipynb) for note-taking and coding practice, along with standalone files for project implementations.
-
 ## 📝 Notes and Resources
 
 For more raw version of these notes can be found in my Google Docs. Feel free to check the [Road to CS & SE Mastery - Google Docs Notes](https://docs.google.com/document/d/10SN9BOhSFy0uYP_4_ckPrBdMLZ4oqDlq1_z4wJchWZg/edit?usp=sharing).
-
-## 🎯 Goals
-
-The aim of this repository is to:
-- Maintain a strong foundation in core computer science concepts.
-- Continuously improve as a Software Engineer.
-- Gain practical experience in cloud computing, DevOps, and emerging technologies.
 
 *Disclaimer: Parts of this repository may have utilized tools like ChatGPT or Copilot to assist in generating code and explanations. However, for actual coding projects and coding practices, my goal is to minimize dependency on these AI tools to better improve my skills.*
