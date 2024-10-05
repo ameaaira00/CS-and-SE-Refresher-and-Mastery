@@ -10,6 +10,9 @@
 
 ### October 10, 2024
 - Reviewed Recursion and Quicksort algorithm.
-- Recall Stacks and Call Stacks.
+- Recall Stacks, Queues, and Graphs.
 - Review Hash Tables and Dictionaries.
+- Recall Breadth-First Search
+
+
 
