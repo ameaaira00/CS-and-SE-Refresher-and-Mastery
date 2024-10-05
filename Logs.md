@@ -11,4 +11,5 @@
 ### October 10, 2024
 - Reviewed Recursion and Quicksort algorithm.
 - Recall Stacks and Call Stacks.
+- Review Hash Tables and Dictionaries.
 
