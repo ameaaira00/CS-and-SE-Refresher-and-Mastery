@@ -1,5 +1,4 @@
 # LOGS 
-🔥 Streak: 1
 
 ### September 21, 2024
 - Set up the repository.
@@ -8,6 +7,8 @@
 - Recap on Big O notation and time complexity.
 - Review Arrays and Linked Lists.
 
-🔥 Streak: 1
 
-### September 22, 2024
+### October 10, 2024
+- Reviewed Recursion and Quicksort algorithm.
+- Recall Stacks and Call Stacks.
+
