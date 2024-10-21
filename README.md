@@ -12,13 +12,17 @@ The repository is organized as follows:
 /CS and SE Refresher & Mastery
 ├── 1.0 Data Structure and Algorithms
 │   ├── Search Algorithm
-│   │   └── BinarySearch.ipynb
-│   │   └── BreadthFirstSearch.ipynb
+│   │   └── BinarySearch
+│   │   └── BreadthFirstSearch
 │   └── Sorting Algorithm
-│   │   └── QuickSort.ipynb
-│   │   └── SelectionSort.ipynb
-│   ├── Algorithms.ipynb
-│   ├── DataStructures.ipynb
+│   │   └── QuickSort
+│   │   └── SelectionSort
+│   ├── Algorithms
+│   ├── DataStructures
+├── 3.0 Advanced Topics
+│   ├── DevOps and Automation
+├── 4.0 Continuous Learning
+│   ├── Software Engineering Processes
 ├── TO FILL...
 ├── Logs.md
 └── README.md

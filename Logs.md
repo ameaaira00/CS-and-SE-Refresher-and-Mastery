@@ -14,5 +14,11 @@
 - Review Hash Tables and Dictionaries.
 - Recall Breadth-First Search
 
+### October 25, 2024
+- Reviewed DevOps and Automation concepts.
+- Dive into Git and GitHub for version control.
+- Reviewed Phabricator for code review and collaboration.
+- Recalled Software Engineering Processes and Best Practices.
+
 
 
