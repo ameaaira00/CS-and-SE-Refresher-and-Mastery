@@ -21,8 +21,8 @@ The repository is organized as follows:
 │   ├── DataStructures
 ├── 3.0 Advanced Topics
 │   ├── DevOps and Automation
-├── 4.0 Continuous Learning
 │   ├── Software Engineering Processes
+├── 4.0 Continuous Learning
 ├── TO FILL...
 ├── Logs.md
 └── README.md

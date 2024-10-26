@@ -20,5 +20,9 @@
 - Reviewed Phabricator for code review and collaboration.
 - Recalled Software Engineering Processes and Best Practices.
 
+### October 27, 2024
+- Recalled Dijkstra's algorithm for finding the shortest path in a graph.
+
+
 
 
