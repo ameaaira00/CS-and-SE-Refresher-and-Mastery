@@ -23,6 +23,7 @@ The repository is organized as follows:
 │   ├── DevOps and Automation
 │   ├── Software Engineering Processes
 ├── 4.0 Continuous Learning
+│   ├── Angular
 ├── TO FILL...
 ├── Logs.md
 └── README.md

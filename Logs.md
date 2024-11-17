@@ -23,6 +23,9 @@
 ### October 27, 2024
 - Recalled Dijkstra's algorithm for finding the shortest path in a graph.
 
+### November 10 & 17, 2024
+- Started deeping dive into Angular documentations.
+- Applied Angular concepts to build a simple web application.
 
 
 
